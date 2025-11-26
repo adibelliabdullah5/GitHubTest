@@ -1,1 +1,2 @@
 burayı test edeceğiz.
+ikinci commit i atıp github a yükleyelim.
